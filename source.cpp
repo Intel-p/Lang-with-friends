@@ -14,7 +14,7 @@ string file_to_string(fname);
 
 int main()
 {
-
+	cout << "Hello world\n";
 }
 
 vector<string> tokenizer(string str)
